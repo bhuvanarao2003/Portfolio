@@ -25,10 +25,10 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              title=""
+              description="Automated test scripts for an e-commerce website using Selenium WebDriver and Python's unittest framework. Covers user registration, login, product search, cart operations, and checkout processes. Run tests with python run_tests.py after setting up the environment and ChromeDriver."
+              ghLink="https://github.com/bhuvanarao2003/GadgetSiteSoftwareTesting.git"
+              
             />
           </Col>
 
@@ -36,10 +36,10 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              title=""
+              description="The Nutrition Estimation Project is a web application designed to help users estimate their nutritional needs. The application includes features such as BMI calculation and a calorie estimator. This project is built using AngularJS for the front end, Node.js for the back end, CSS for styling, and SQL for database management."
+              ghLink="https://github.com/bhuvanarao2003/DBMS-project.git"
+              
             />
           </Col>
 
@@ -47,10 +47,10 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
+              title=""
+              description="The Image Compressor App is a user-friendly web application built with ReactJS, designed to efficiently reduce image file sizes while maintaining quality"
+              ghLink="https://github.com/bhuvanarao2003/image-compressor.io.git"
+                          
             />
           </Col>
 
@@ -61,7 +61,7 @@ function Projects() {
               title="Plant AI"
               description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
               ghLink="https://github.com/soumyajit4419/Plant_AI"
-              demoLink="https://plant49-ai.herokuapp.com/"
+              // demoLink="https://plant49-ai.herokuapp.com/"
             />
           </Col>
 
