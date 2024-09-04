@@ -2,6 +2,10 @@
   Portfolio Website - v2.0<br/>
   <a href="https://portfolio-omega-umber-89.vercel.app/" target="_blank">My Portfolio</a>
 </h2>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3aae4adcf0fbd329ba245baff98c08461fd77feb
 <br/>
 
 ## TL;DR
