@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Bhuvana </span>
             from <span className="purple"> Mangaluru, India.</span>
             <br />
-            I am currently pursuing my bacholers in information science and engineering in canara engineering college.
+            I am currently pursuing my Bachelor's in Information Science and Engineering at Canara Engineering College.
             <br />
             <br />
             <br />
