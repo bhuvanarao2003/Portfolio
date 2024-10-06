@@ -56,8 +56,8 @@ function Projects() {
             <ProjectCard
               imgPath={score}
               isBlog={false}
-              title="Score Spotter"
-              description="Automated marks output of the college website which is beneficial for the students with the help of uipath Automation explorer"
+              title="ATS Analyser"
+              description="Smart ATS Resume Analyzer using Streamlit, spaCy, and PyMuPDF. The tool allows users to upload their resumes and paste a job description to analyze the match between the two. It provides detailed feedback on key aspects such as keyword match, experience relevance, skills alignment, education, resume structure, and language quality."
             />
           </Col>
 
