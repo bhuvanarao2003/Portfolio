@@ -45,7 +45,6 @@ function Projects() {
             <ProjectCard
               imgPath={compress}
               isBlog={false}
-<br>
               title="Image Compressor"
               description="Easy Image Compressor is a React-based web application designed to allow users to upload images, adjust compression quality, compress the images, and download the optimized versions. The application also maintains a history of compressed images for user reference."
               ghLink="https://github.com/bhuvanarao2003/image-compressor.io.git"
