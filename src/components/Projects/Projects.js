@@ -58,7 +58,8 @@ function Projects() {
               isBlog={false}
               title="ATS Analyser"
               description="Smart ATS Resume Analyzer using Streamlit, spaCy, and PyMuPDF. The tool allows users to upload their resumes and paste a job description to analyze the match between the two. It provides detailed feedback on key aspects such as keyword match, experience relevance, skills alignment, education, resume structure, and language quality."
-            />
+              ghLink="https://github.com/bhuvanarao2003/ATS-checker.git"
+                />
           </Col>
 
 
