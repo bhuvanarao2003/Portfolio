@@ -23,7 +23,7 @@ function Projects() {
             <ProjectCard
               imgPath={ecommerce}
               isBlog={false}
-              title=""
+              title="Gadget-Store Website Automation"
               description="Automated test scripts for an e-commerce website using Selenium WebDriver and Python's unittest framework. Covers user registration, login, product search, cart operations, and checkout processes. Run tests with python run_tests.py after setting up the environment and ChromeDriver."
               ghLink="https://github.com/bhuvanarao2003/GadgetSiteSoftwareTesting.git"
               
@@ -34,7 +34,7 @@ function Projects() {
             <ProjectCard
               imgPath={nutrition}
               isBlog={false}
-              title=""
+              title="Nutrition Estimator"
               description="The Nutrition Estimation Project is a web application designed to help users estimate their nutritional needs. The application includes features such as BMI calculation and a calorie estimator. This project is built using AngularJS for the front end, Node.js for the back end, CSS for styling, and SQL for database management."
               ghLink="https://github.com/bhuvanarao2003/DBMS-project.git"
               
@@ -45,7 +45,7 @@ function Projects() {
             <ProjectCard
               imgPath={compress}
               isBlog={false}
-              title=""
+              title="Image Compressor"
               description="The Image Compressor App is a user-friendly web application built with ReactJS, designed to efficiently reduce image file sizes while maintaining quality"
               ghLink="https://github.com/bhuvanarao2003/image-compressor.io.git"
                           
