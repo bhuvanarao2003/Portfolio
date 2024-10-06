@@ -46,7 +46,7 @@ function Projects() {
               imgPath={compress}
               isBlog={false}
               title="Image Compressor"
-              description="The Image Compressor App is a user-friendly web application built with ReactJS, designed to efficiently reduce image file sizes while maintaining quality"
+              description="Easy Image Compressor is a React-based web application designed to allow users to upload images, adjust compression quality, compress the images, and download the optimized versions. The application also maintains a history of compressed images for user reference."
               ghLink="https://github.com/bhuvanarao2003/image-compressor.io.git"
                           
             />
